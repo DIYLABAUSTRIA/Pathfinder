@@ -3,9 +3,7 @@ Cinematic GoPro FPV Drone
 
 I wanted my very own [Squirt](http://www.shendrones.com/squirt-v2).. 2 Months later I was proud to have finished Pathfinder! 
 
-Reference-style: 
-![hero][hero.jpg]
-[logo]: https://github.com/PrinterGirl/Pathfinder/blob/main/hero.JPG "hero"
+[hero][hero.jpg]
 
 
 It's a cinematic GoPro Hero carrier, designed for easy build and maintenance as well as slow and steady cinematic flights.
